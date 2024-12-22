@@ -1,13 +1,7 @@
 # 🎮 Space Invaders
 
-[![Game Preview](link-to-image-or-gif)]  
+[![Game Preview](https://github.com/Marvel033/SPACEama/blob/main/SpaceInvaderzgif.gif?raw=true)]  
 *Space Invaders is  a classic arcade game from 1978 developed by Tomohiro Nishikado. Me and my friends make this game to fulfill an assignment from our lecturer*
-
----
-
-## 🎥 Screenshots & Videos
-
-[Watch Gameplay Video](link-to-video)
 
 ---
 
