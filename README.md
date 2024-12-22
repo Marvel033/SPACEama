@@ -1,17 +1,15 @@
 # 🎮 Space Invaders
 
-[![Game Preview](https://github.com/Marvel033/SPACEama/blob/main/SpaceInvaderzgif.gif?raw=true)]  
+![Game Preview](https://github.com/Marvel033/SPACEama/blob/main/SpaceInvaderzgif.gif?raw=true)  
 *Space Invaders is  a classic arcade game from 1978 developed by Tomohiro Nishikado. Me and my friends make this game to fulfill an assignment from our lecturer*
 
 ---
 
 ## 📖 How to Play
-1. **Objective**: [State the main goal of the game].
+1. **Objective**: Shoot as many alien spaceship to get higher score.
 2. **Controls**:  
-   - **Move**: Arrow keys / WASD  
-   - **Attack**: Spacebar  
-   - [Add more controls as needed].
-3. [Any special instructions or hints].
+   - **Move**: Arrow keys (left/right)
+   - **Attack**: Auto attack
 
 ---
 
